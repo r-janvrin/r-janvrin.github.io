@@ -11,6 +11,6 @@ description: Overview of work terms and personal projects
 Reports to come when I find the time!
 
 Repo links:
-[Unity Factory Game](https://github.com/r-janvrin/Attacktory)
+[Unity Factory Game](https://github.com/r-janvrin/Attacktory)  
 [Discord Music Bot](https://github.com/r-janvrin/Discord-Music-Bot)
 
