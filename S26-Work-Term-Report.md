@@ -18,9 +18,15 @@ This summer, I wanted to make sure I improved my technical and collaborative ski
 
 <details><summary>Improve my collaborative skills by working on projects with others</summary>Peek a boo!</details>
 
+---
+
 <details><summary>Gain experience with automation and Web APIs</summary>Peek a boo!</details>
 
+---
+
 <details><summary>Improve my Time management and organizational skills</summary>Peek a boo!</details>
+
+---
 
 <details><summary>Learn to create clear documentation</summary>Peek a boo!</details>
 
