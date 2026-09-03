@@ -14,27 +14,17 @@ I’m Ryan Janvrin, a third-year Computer Science student at the University of G
 ---
 
 ## Goals
-This summer, I wanted to make sure I improved my technical and collaborative skills. To monitor this I set a few goals:
+This summer, I wanted to make sure I improved my technical and collaborative skills. To track my progress, I set a few goals:  
 
-<details>
-<summary> Improve my collaborative skills by working on projects with others </summary>
-Description 1
-</details>
+<details><summary>Improve my collaborative skills by working on projects with others</summary>Peek a boo!</details>
 
-<details>
-<summary> Gain experience with automation and Web APIs </summary>
-Description 2
-</details>
+<details><summary>Gain experience with automation and Web APIs</summary>Peek a boo!</details>
 
-<details>
-<summary> Improve my Time management and organizational skills </summary>
-Description 3
-</details>
+<details><summary>Improve my Time management and organizational skills</summary>Peek a boo!</details>
 
-<details>
-<summary> Learn to create clear documentation </summary>
-Description 4
-</details>
+<details><summary>Learn to create clear documentation</summary>Peek a boo!</details>
+
+
 ---
 
 
