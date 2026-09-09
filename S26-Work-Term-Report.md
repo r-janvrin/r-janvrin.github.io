@@ -5,16 +5,16 @@ description: Summer 2026
 [← Back](/README.html)
 
 ## Introduction
-I’m Ryan Janvrin, a third-year Computer Science student at the University of Guelph. In the summer of 2026, I had the opportunity to work at the University of Guelph’s Institutional Research and Planning department for my first co-op term for SharePoint Web and Workflow Development. In this report, I’ll talk about some highlights of this position as well as the skills and experience I developed working in this role. 
+I’m Ryan Janvrin, a third-year Computer Science student at the University of Guelph. In the summer of 2026, I had the opportunity to work at the University of Guelph’s Institutional Research and Planning department for my first co-op term for SharePoint Web and Workflow Development. In this report, I’ll talk about some highlights of this position as well as the skills and experience I developed working in this role.  
 
 ---
 
 ## About the employer
-The Office of Institutional Research and Planning acts as the central data hub for the university. The department intakes data from a wide variety of sources, creating one of the largest central databases among Ontario universities. The Office of IRP primarily provides departments with access to this data through reports in a central Data Portal. Another focus of IRP is the governance of data. It is important to control who has access to data to limit data leaks and protect confidential data.
+The Office of Institutional Research and Planning acts as the central data hub for the university. The department intakes data from a wide variety of sources, creating one of the largest central databases among Ontario universities. The Office of IRP primarily provides departments with access to this data through reports in a central Data Portal. Another focus of IRP is the governance of data. It is important to control who has access to data to limit data leaks and protect confidential data.  
 ---
 
 ## Job Description
-This summer my primary focus was on our reports and how our consumers can access them. The department is changing data storage providers, and is taking this opportunity to improve the Data Portal at the same time. My focus was on the migration of the Data Portal from an outdated Drupal site to a modern SharePoint site. During this migration I was able to fix multiple pain points from the Drupal site by condensing information shared across pages, and simplifying the process to add reports to the Data Portal. I was constantly getting feedback on how to improve the Data Portal from people who will actually use it. 
+This summer my primary focus was on our reports and how our consumers can access them. The department is changing data storage providers, and is taking this opportunity to improve the Data Portal at the same time. My focus was on the migration of the Data Portal from an outdated Drupal site to a modern SharePoint site. During this migration I was able to fix multiple pain points from the Drupal site by condensing information shared across pages, and simplifying the process to add reports to the Data Portal. I was constantly getting feedback on how to improve the Data Portal from people who will actually use it.  
 ---
 
 ## Goals
@@ -49,8 +49,8 @@ One thing that was very important to me during this Co-op was to make sure that 
 
 
 ## Conclusion
-I really enjoyed working at the Office of Institutional Research and Planning this summer. 
+I really enjoyed working at the Office of Institutional Research and Planning this summer.   
 ---
 
 ## Acknowledgements
-There are a few people who made this work term spectacular, and I'd like to thank 
+There are a few people who made this work term spectacular, and I'd like to take the time to thank them.
