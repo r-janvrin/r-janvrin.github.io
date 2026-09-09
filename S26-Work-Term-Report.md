@@ -10,12 +10,30 @@ I’m Ryan Janvrin, a third-year Computer Science student at the University of G
 ---
 
 ## About the employer
-The Office of Institutional Research and Planning acts as the central data hub for the university. The department intakes data from a wide variety of sources, creating one of the largest central databases among Ontario universities. The Office of IRP primarily provides departments with access to this data through reports in a central Data Portal. Another focus of IRP is the governance of data. It is important to control who has access to data to limit data leaks and protect confidential data.  
+The Office of Institutional Research and Planning acts as the central data hub for the university. The department intakes data from a wide variety of sources, creating one of the largest central databases among Ontario universities. The Office of IRP primarily provides departments with access to this data through reports in a central Data Portal. Another focus of IRP is the governance of data. IRP controls who has access to data 
+
+
 
 ---
 
 ## Job Description
-This summer my primary focus was on our reports and how our consumers can access them. The department is changing data storage providers, and is taking this opportunity to improve the Data Portal at the same time. My focus was on the migration of the Data Portal from an outdated Drupal site to a modern SharePoint site. During this migration I was able to fix multiple pain points from the Drupal site by condensing information shared across pages, and simplifying the process to add reports to the Data Portal. I was constantly getting feedback on how to improve the Data Portal from people who will actually use it.  
+
+ My focus was on the migration of outdated content from a public-facing Drupal site to a modern SharePoint site. The department is changing data storage providers, and is taking this opportunity to improve the Data Portal at the same time. I was responsible for migrating internal materials from the Drupal site to SharePoint as well as cleaning up the Drupal site after content has moved. 
+
+### Data Portal
+The Data Portal on the Drupal site was very dated, and there were multiple areas with a very bad user experience. The reports were spread across multiple pages in a tree-like structure, sometimes up to 5 levels deep. This made it very difficult for users to even find the report they were looking for. When they found it, they had no idea if they had access until they had gone through a sign-in process for a third-party site. This lead to a very common scenario where a user would search through many pages to find a report, only to find out they are unable to access 
+
+The previous Data Portal also made it difficult for our team to publicize reports. To add a report they would have to create a new page on the Drupal site and manually link to this page in the Data Portal. When there are close to 800 pages on the Drupal site, it is too much work to have to manually manage the Data Portal. 
+
+I used these techniques to improve the user experience:  
+
+-Condensing information spread across pages
+  -All of the reports are available through one central catalogue on the SharePoint site. This eliminates the need for page traversal and allows users to see all reports in one page.  
+-Displaying access on SharePoint
+  -Each report displays whether a user will be able to access the report. This removes the pattern where a user would try to access a report and sign in, only to find out they can't view the report. The framework needed to make this possible has the benefit of requiring one group to manage access, making it easier for IRP to automate access control in the future.  
+-Simplifying the process to publish reports
+  -The SharePoint site dynamically builds the catalogue from a SharePoint list. Adding a new item to this list will automatically add it to the Data Portal. This requires next to no understanding of the SharePoint framework, greatly reducing the complexity of report publishing.
+
 
 ---
 
@@ -34,7 +52,7 @@ While creating the new Data Insights platform, I had the opportunity to use a fe
 
 ---
 
-<details><summary>Improve my Time management and organizational skills</summary>
+<details><summary>Improve my time management and organizational skills</summary>
 The Drupal site had a large amount of content on it, which made it important to stay organized during the migration. The main tool I used to stay organized was Excel. I mapped out the website to an Excel sheet, and would regularly update this sheet with information as it came along. The sheet acted as a source of truth for content classifications, planned actions, and management decisions. I also improved my time management through the teams planner as well as the calendar. These apps allowed me to allocate my time in both the long term and the short term. This experience will allow me to stay organized when working with large amounts of data.
 </details>
 
