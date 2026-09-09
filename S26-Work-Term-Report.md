@@ -10,7 +10,7 @@ I’m Ryan Janvrin, a third-year Computer Science student at the University of G
 ---
 
 ## About the employer
-The Office of Institutional Research and Planning acts as the central data hub for the university. The department intakes data from a wide variety of sources, creating one of the largest central databases among Ontario universities. The Office of IRP primarily provides departments with access to this data through reports in a central Data Portal. Another focus of IRP is the governance of data. IRP controls who has access to data 
+The Office of Institutional Research and Planning acts as the central data hub for the University of Guelph. The department intakes data from a wide variety of sources, creating one of the largest central databases among Ontario universities. The Office of IRP primarily provides departments with access to this data through reports in a central Data Portal. Another focus of IRP is the governance of data. IRP controls who has access to data 
 
 
 
@@ -21,7 +21,7 @@ The Office of Institutional Research and Planning acts as the central data hub f
  My focus was on the migration of outdated content from a public-facing Drupal site to a modern SharePoint site. The department is changing data storage providers, and is taking this opportunity to improve the Data Portal at the same time. I was responsible for migrating internal materials from the Drupal site to SharePoint as well as cleaning up the Drupal site after content has moved. 
 
 ### Data Portal
-The Data Portal on the Drupal site was very dated, and there were multiple areas with a very bad user experience. The reports were spread across multiple pages in a tree-like structure, sometimes up to 5 levels deep. This made it very difficult for users to even find the report they were looking for. When they found it, they had no idea if they had access until they had gone through a sign-in process for a third-party site. This lead to a very common scenario where a user would search through many pages to find a report, only to find out they are unable to access 
+The Data Portal on the Drupal site was very old, and there were multiple areas with a very bad user experience. The reports were spread across multiple pages in a tree-like structure, sometimes up to 5 levels deep. This made it very difficult for users to even find the report they were looking for. When they found it, they had no idea if they had access until they had gone through a sign-in process for a third-party site. This lead to a very common scenario where a user would search through many pages to find a report, only to find out they are unable to access 
 
 The previous Data Portal also made it difficult for our team to publicize reports. To add a report they would have to create a new page on the Drupal site and manually link to this page in the Data Portal. When there are close to 800 pages on the Drupal site, it is too much work to have to manually manage the Data Portal. 
 
@@ -34,7 +34,7 @@ I used these techniques to improve the user experience:
 - Simplifying the process to publish reports
   - The SharePoint site dynamically builds the catalogue from a SharePoint list. Adding a new item to this list will automatically add it to the Data Portal. This requires next to no understanding of the SharePoint framework, greatly reducing the complexity of report publishing.
 
-![Screenshot of SharePoint Data Portal, including access indicators](https://images.pexels.com/photos/31284696/pexels-photo-31284696.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31284696.jpg&fm=jpg)
+![Screenshot of SharePoint Data Portal, including access indicators](images/Data_Portal.png)
 
 ---
 
