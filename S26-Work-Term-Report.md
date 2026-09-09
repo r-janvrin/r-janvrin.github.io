@@ -27,12 +27,12 @@ The previous Data Portal also made it difficult for our team to publicize report
 
 I used these techniques to improve the user experience:  
 
--Condensing information spread across pages
-  -All of the reports are available through one central catalogue on the SharePoint site. This eliminates the need for page traversal and allows users to see all reports in one page.  
--Displaying access on SharePoint
-  -Each report displays whether a user will be able to access the report. This removes the pattern where a user would try to access a report and sign in, only to find out they can't view the report. The framework needed to make this possible has the benefit of requiring one group to manage access, making it easier for IRP to automate access control in the future.  
--Simplifying the process to publish reports
-  -The SharePoint site dynamically builds the catalogue from a SharePoint list. Adding a new item to this list will automatically add it to the Data Portal. This requires next to no understanding of the SharePoint framework, greatly reducing the complexity of report publishing.
+- Condensing information spread across pages
+  - All of the reports are available through one central catalogue on the SharePoint site. This eliminates the need for page traversal and allows users to see all reports in one page.  
+- Displaying access on SharePoint
+  - Each report displays whether a user will be able to access the report. This removes the pattern where a user would try to access a report and sign in, only to find out they can't view the report. The framework needed to make this possible has the benefit of requiring one group to manage access, making it easier for IRP to automate access control in the future.  
+- Simplifying the process to publish reports
+  - The SharePoint site dynamically builds the catalogue from a SharePoint list. Adding a new item to this list will automatically add it to the Data Portal. This requires next to no understanding of the SharePoint framework, greatly reducing the complexity of report publishing.
 
 ![Screenshot of SharePoint Data Portal, including access indicators](https://images.pexels.com/photos/31284696/pexels-photo-31284696.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31284696.jpg&fm=jpg)
 
