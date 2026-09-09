@@ -25,7 +25,7 @@ The Data Portal on the Drupal site was very old, and there were multiple areas w
 
 The previous Data Portal also made it difficult for our team to publicize reports. To add a report they would have to create a new page on the Drupal site and manually link to this page in the Data Portal. When there are close to 800 pages on the Drupal site, it is too much work to have to manually manage the Data Portal. 
 
-I used these techniques to improve the user experience:  
+I created a custom SPFx application with TypeScript and used these techniques to improve user experience:  
 
 - Condensing information spread across pages
   - All of the reports are available through one central catalogue on the SharePoint site. This eliminates the need for page traversal and allows users to see all reports in one page.  
@@ -61,7 +61,7 @@ The Drupal site had a large amount of content on it, which made it important to 
 ---
 
 <details><summary>Learn to write clear documentation</summary>
-One thing that was very important to me during this Co-op was to make sure that others can actually use my work. In pursuit of this, I created multiple step-by-step guides outlining how to update the Data Portal with new content. I believe that simplicity is an important part of documentation; it doesn't matter how clear the documentation is if the task is extremeply complex. I designed the points of interaction with my work to be as simple as possible, using built-in SharePoint features like lists for data input. This work term has changed how I think about documentation and how I expect others to use my work.
+One thing that was very important to me during this Co-op was to make sure that others can actually use my work. In pursuit of this, I created multiple step-by-step guides outlining how to update the Data Portal with new content. I believe that simplicity is an important part of documentation; it doesn't matter how clear the documentation is if the task is extremeply complex. I designed the points of interaction with my work to be as simple as possible, using built-in SharePoint features like lists for data input. This work term has changed how I think about documentation and how I plan for others to use my work.
 </details>
 
 
@@ -71,9 +71,24 @@ One thing that was very important to me during this Co-op was to make sure that 
 
 
 ## Conclusion
-I really enjoyed working at the Office of Institutional Research and Planning this summer.   
+Working at the Office of Institutional Research and Planning this past summer was an awesome experience. I've grown so much over the past few months in many ways. I was able to strengthen my technical skills, learning how to use TypeScript to create asynchronous programs. 
+
+On top of my technical learning, I've learned some general skills that I can use in the future. The strong organizational skills I've gained while working here will prove invaluable during my studies as well as in the future. Additionally, I improved my communication skills through collaboration with coworkers and meetings with executives. I'm positive that the skills I developed at IRP will help me in my career.
 
 ---
 
 ## Acknowledgements
-There are a few people who made this work term spectacular, and I'd like to take the time to thank them.
+These past few months, I've had the privilege of working alongside some amazing people. Everyone on the IRP team took the time to make me feel welcome and to help me when I had questions. 
+
+I'd like to thank Steven Woodard, my manager, for giving me the opportunity to work on this team and for providing ways for me to grow and improve myself. He was always available to answer any questions I had and gave helpful feedback on my work. Steve cares about his team and he shows it by stepping up to bat for them. 
+
+I'd also like to thank Peihai Li, who acted as manager while Steve was away. He helped me get settled in by making sure there were things I could work on and helping me prepare for meetings with management. His assistance made me much more comfortable working at IRP. 
+
+I'd like to thank Titilope Nathaniel, the Data Governance lead at IRP, for taking the time to help me understand the structure of reporting and IRP's plans for the future. I was developing the Data Portal at the same time as the reports were being migrated, and understanding what the reports will look like was extremely helpful for my development. 
+
+Finally, I'd like to thank Katie Grierson for helping me during my Co-op search as well as during my work term. She really helped me improve my interviewing skills, and I think it's safe to say that I wouldn't have had this position without her help.
+
+
+
+
+Thank you for reading my report on my S26 work term! I hope you learned even a fraction of what I learned this summer at IRP. 
