@@ -34,7 +34,7 @@ I used these techniques to improve the user experience:
 - Simplifying the process to publish reports
   - The SharePoint site dynamically builds the catalogue from a SharePoint list. Adding a new item to this list will automatically add it to the Data Portal. This requires next to no understanding of the SharePoint framework, greatly reducing the complexity of report publishing.
 
-Improved layout of the Data Portal:  
+### Improved layout of the Data Portal:  
 ![Screenshot of SharePoint Data Portal, including access indicators](images/Data_Portal.png)
 
 ---
