@@ -34,6 +34,7 @@ I used these techniques to improve the user experience:
 -Simplifying the process to publish reports
   -The SharePoint site dynamically builds the catalogue from a SharePoint list. Adding a new item to this list will automatically add it to the Data Portal. This requires next to no understanding of the SharePoint framework, greatly reducing the complexity of report publishing.
 
+![Screenshot of SharePoint Data Portal, including access indicators](https://images.pexels.com/photos/31284696/pexels-photo-31284696.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31284696.jpg&fm=jpg)
 
 ---
 
@@ -41,13 +42,13 @@ I used these techniques to improve the user experience:
 This summer, I wanted to make sure I improved my technical and collaborative skills. To track my progress, I set a few goals:  
 
 <details><summary>Improve my collaborative skills by working on projects with others</summary>
-While working at IRP I regularly met with management and stakeholders to discuss project expectations and requirements. At these meetings I would share what I'm working on and receive feedback. While working on the Data Portal, I would also meet with project members. After this summer, I feel a lot more confident working on technical projects with others and presenting my work to shareholders and management.
+While working at IRP, I regularly met with management and stakeholders to discuss project expectations and requirements. At these meetings I would share what I'm working on and receive feedback. While working on the Data Portal, I would also meet with project members. After this summer, I feel a lot more confident working on technical projects with others and presenting my work to shareholders and management.
 </details>
 
 ---
 
 <details><summary>Gain experience with automation and Web APIs</summary>
-While creating the new Data Insights platform, I had the opportunity to use a few web APIs. One goal of the new Data Portal was to display if a user has access to a report before they try to access it. To solve this problem I used an SPFx application which uses Microsoft Graph's checkMemberGroups API to determine user permissions. The application also uses the SharePoint API to access list data, displaying dynamic content. In addition to APIs, I was able to use Power BI to create multiple automated workflows for tasks such as custom notifications when forms are submitted. These projects gave me experience with automation and strengthened my ability to design asynchronous programs.
+While creating the new Data Insights platform, I had the opportunity to use a few web APIs. One goal of the new Data Portal was to display if a user has access to a report before they try to access it. To solve this problem I used an SPFx application using Microsoft Graph's checkMemberGroups API to determine user permissions. The application also uses the SharePoint API to access list data, displaying dynamic content. In addition to APIs, I was able to use Power BI to create multiple automated workflows for tasks, such as custom notifications when forms are submitted. These projects gave me experience with automation and strengthened my ability to design asynchronous programs.
 </details>
 
 ---
